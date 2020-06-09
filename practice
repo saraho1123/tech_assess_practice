@@ -1,0 +1,7 @@
+## Class: BackpackingBackpack
+
+**Attributes:**
+
+  * shouldStrapStyle (array)
+  * carryingCapacity (integer)
+  *

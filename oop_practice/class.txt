@@ -1,0 +1,12 @@
+Class: Bicycle
+
+Attributes:
+
+handleBar: (string)
+tires: (array)
+gears: (integer)
+has_handBreak: (boolean)
+colors: (array)
+
+Methods:
+upgrade_handleBar: (string changes)
