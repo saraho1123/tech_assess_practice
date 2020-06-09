@@ -5,7 +5,7 @@ Attributes:
 handleBar: (string)
 tires: (array)
 gears: (integer)
-has_handBreak: (boolean)
+hashandBreak: (boolean)
 colors: (array)
 
 Methods:
